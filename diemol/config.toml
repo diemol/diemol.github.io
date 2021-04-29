@@ -6,7 +6,7 @@ theme = "aerial"
 [params]
   name = "Diego Molina"
   about = "Software Engineer & Tester &nbsp;&bull;&nbsp; Open Source enthusiast &nbsp;&bull;&nbsp; Selenium commiter"
-  copyright = "2020"
+  copyright = "2021"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
