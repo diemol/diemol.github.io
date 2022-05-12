@@ -1,0 +1,72 @@
+:root { 
+    --primary-color: rgba(47, 70, 97, 0.98); 
+    --secondary-color: rgba(167, 112, 11); 
+    --link-color: rgb(207, 207, 207); 
+} 
+
+.navbar {
+    background: white;
+}
+
+.footer {
+    position: fixed;
+    top: 140px;
+    right: var(--footerOffset);
+    transform: rotate(-90deg);
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+}
+
+.year {
+    position: relative;
+    left: -20px;
+}
+
+.type {
+    position: relative;
+    left: -10px;
+}
+
+.blueish {
+    background: var(--primary-color) !important;
+    font-size: 14px;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 10%;
+}
+
+#navBot a:hover, #navTop a:hover {
+    color: var(--primary-color);
+}
+
+#about a, #publications a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+#about a:hover, #publications a:hover {
+    color: var(--secondary-color);
+}
+
+#about i {
+    font-size: 25px !important;
+    color: var(--secondary-color);
+}
+
+#projects img {
+    width: 80%;
+}
+
+#publications hr {
+    width: calc(100% + 20px);
+    margin:3 auto;
+}
+
+#research {
+    text-align: center;
+}
+#research img {
+    width: 50%;
+}
