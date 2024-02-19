@@ -29,7 +29,7 @@ _merge = "none"
   description = "Home"
   bio = "Software Engineer  \nOpen Source enthusiast"
   avatar = "img/diemol.jpeg"
-  favicon = "img/favicon.ico"
+  favicon = "img/favicon.svg"
   error404 = "There is no such page."
 
   [params.contact]
