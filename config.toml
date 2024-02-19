@@ -91,10 +91,10 @@ relativeURLs = true
     name = "diemol@gmail.com"
     url = "mailto:diemol@gmail.com"
 
-#  [[menu.link]]
-#    identifier = "resume"
-#    name = "resume"
-#    url = ""
+  [[menu.link]]
+    identifier = "mastodon"
+    name = "Mastodon"
+    url = "https://fosstodon.org/@diemol"
 
 [taxonomies]
   authors = "authors"
