@@ -28,7 +28,7 @@ _merge = "none"
   #email = "john.doe@example.com"
   description = "Home"
   bio = "Software Engineer  \nOpen Source enthusiast"
-  avatar = "img/avatar.jpg"
+  avatar = "img/diemol.jpeg"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
 
