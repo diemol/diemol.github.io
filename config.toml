@@ -55,7 +55,7 @@ _merge = "none"
       name = "email" # may be omitted. defaults to key name
       icon = "envelope" # may be omitted. defaults to key name
       style = "fas" # may be omitted. default = "fas"
-      link = "mailto:diemokl@gmail.com"
+      link = "mailto:diemol+website@gmail.com"
     [params.contact.mastodon]
       style = "fab" # may be omitted. default = "fas"
       link = "https://fosstodon.org/@diemol"
