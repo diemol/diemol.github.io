@@ -68,4 +68,9 @@ _merge = "none"
       # for more information.
       # This defaults to false to cover the case of not having control over the linked site.
       rel-me = true
+    [params.contact.bluesky]
+      style = "fab" # may be omitted. default = "fas"
+      link = "https://bsky.app/profile/diemol.bsky.social"
+      
+
       
