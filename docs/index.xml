@@ -4,7 +4,8 @@
     <title>Diego Molina · Home</title>
     <link>https://www.diemol.com/</link>
     <description>Recent content on Diego Molina · Home</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.diemol.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://www.diemol.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
